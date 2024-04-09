@@ -1,0 +1,13 @@
+{
+    "name": "gr421_vaavi/ceinizh-m1",
+    "description": "Bla bla bla",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andryueee"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
